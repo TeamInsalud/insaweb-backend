@@ -1,7 +1,7 @@
 # INSAWEB – Backend (API)
 
 API de INSAWEB para INSALUD: Node 20 + Express + MySQL 8. El frontend está en el repositorio
-[insaweb-frontend](https://github.com/candresper/insaweb-frontend).
+[insaweb-frontend](https://github.com/TeamInsalud/insaweb-frontend).
 
 | Módulo | Formulario (`usuariofor.for_nom`) | Endpoints |
 |---|---|---|

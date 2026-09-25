@@ -1,0 +1,4 @@
+# Finales de línea de Linux (LF) en el repositorio: el despliegue es en un servidor Linux
+* text=auto eol=lf
+*.xlsx binary
+*.png binary

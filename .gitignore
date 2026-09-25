@@ -1,0 +1,22 @@
+# Dependencias
+node_modules/
+
+# Configuración con credenciales (usar .env.example como base)
+.env
+.env.*
+!.env.example
+
+# Compilación
+dist/
+*.tsbuildinfo
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor / sistema operativo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+~$*.xlsx
